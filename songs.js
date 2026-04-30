@@ -1,0 +1,21 @@
+const songs = [
+    {name:"حلف القمر", file:"https://serv100.albumaty.com/dl/gem/george-wassouf/albums/elhawa-sultan/02_Helaf_El_Amar.mp3", img:"half_elamar.jpg"},
+    {name:"الهوى سلطان", file:"https://serv100.albumaty.com/dl/gem/george-wassouf/albums/elhawa-sultan/06_El_Hawa_Sultan.mp3", img:"el_hawa_sultan.jpg"},
+    {name:"ما تقوله ليه", file:"https://serv100.albumaty.com/dl/gem/george-wassouf/albums/dol-msh-hbayeb/03.Ma_Tolo_Leh.mp3", img:"ma_t2olou_leh.jpg"},
+    {name:"كلام الناس", file:"https://serv100.albumaty.com/dl/gem/george-wassouf/albums/kalam-elnass/06_Kalam_Ennas.mp3", img:"kalam_el_nas.jpg"},
+    {name:"خسرت كل الناس", file:"https://serv100.albumaty.com/dl/gem/george-wassouf/albums/heya-elayam/04._Khesert_Kol_El_Nas.mp3", img:"khasart_kol_elnas.jpg"},
+    {name:"اسمعيلي كلمة", file:"https://dl.nghmaty.com/s2/12Rq714f.mp3", img:"isma3i_kelma.jpg"}, 
+    {name:"يا بختك يالي صاحي الليل", file:"https://serv100.albumaty.com/songs_2020/Albumaty.Com_gwrg_wswf_sahy_allyl.mp3", img:"sa7i_el_lail.jpg"} ,
+    {name:"يوم الوداع ", file:"https://serv100.albumaty.com/dl/gem/george-wassouf/albums/zaman-el3agayeb/01.Youm_El_Wadaa.mp3", img:"youm_el_wada3.jpg"} ,
+    {name:"دول مش حبايب ", file:"https://serv100.albumaty.com/dl/gem/george-wassouf/albums/dol-msh-hbayeb/05.Dol_Mish_Habayeb.mp3", img:"dol_m4_7bayb.jpg"} ,
+    {name:"سلف و دين ", file:"https://serv100.albumaty.com/dl/gem/george-wassouf/albums/salaf-weden/01.Salaf_w_Dayn.mp3", img:"salf_w_dain.jpg"}  ,
+    {name:"نص عمري ", file:"https://serv100.albumaty.com/song2022/Albumaty.Com_gwrg_wswf_ns_amry.mp3", img:"nos_3omry.jpg"}  ,
+    {name:"يالي تعبنا سنين في هواه", file:"http://mp3.shewaya.com/Gorg%20Wassof/9960/2YrYp9mE2YTZiiDYqti52KjZhtinINiz2YbZitmGINmB2Yog2YfZiNin2YcgLSDYrNmI2LHYrA==_listen.mp3", img:"7ta.jpg"} ,
+    {name:"بيتكلم عليا ", file:"https://serv100.albumaty.com/dl/gem/george-wassouf/singels/Albumaty.Com.George.Wassouf.Byehsedoni.mp3", img:"bytkl.jpg"}  ,
+    {name:"ياه علي الزمن ", file:"https://serv100.albumaty.com/songs_2020/Albumaty.Com_gwrg_wswf_yah_aalzmn.mp3", img:"yah.jpg"}  ,
+    {name:"رقصه اسباني ", file:"https://serv100.albumaty.com/2024/Albumaty.Com_gwrg_wswf_rkst_asbany.mp3", img:"reksa.jpg"}  ,
+    {name:"بيحسدوني ", file:"https://serv100.albumaty.com/dl/gem/george-wassouf/singels/Albumaty.Com.George.Wassouf.Byehsedoni.mp3   ", img:"byh.jpg"}  ,
+    {name:"ليل العاشقين ", file:"https://serv100.albumaty.com/dl/gem/george-wassouf/albums/leil-el3ashe2en/02_Leil_El_Ashekin.mp3 ", img:"lel.jpg"}  ,
+    {name:"كدا كفايه ", file:"https://serv100.albumaty.com/dl/gem/george-wassouf/albums/dol-msh-hbayeb/02.Keda_Kefaya.mp3  ", img:"keda.jpg"}  ,
+    {name:"جرحونا ", file:"https://serv100.albumaty.com/dl/gem/george-wassouf/albums/roh-elroh/03_Grahoonah.mp3 ", img:"ger.jpg"}  ,//
+];
