@@ -11,7 +11,7 @@ const songs = [
     {name:"سلف و دين ", file:"https://serv100.albumaty.com/dl/gem/george-wassouf/albums/salaf-weden/01.Salaf_w_Dayn.mp3", img:"salf_w_dain.jpg"}  ,
     {name:"نص عمري ", file:"https://serv100.albumaty.com/song2022/Albumaty.Com_gwrg_wswf_ns_amry.mp3", img:"nos_3omry.jpg"}  ,
     {name:"يالي تعبنا سنين في هواه", file:"http://mp3.shewaya.com/Gorg%20Wassof/9960/2YrYp9mE2YTZiiDYqti52KjZhtinINiz2YbZitmGINmB2Yog2YfZiNin2YcgLSDYrNmI2LHYrA==_listen.mp3", img:"7ta.jpg"} ,
-    {name:"بيتكلم عليا ", file:"https://serv100.albumaty.com/dl/gem/george-wassouf/singels/Albumaty.Com.George.Wassouf.Byehsedoni.mp3", img:"bytkl.jpg"}  ,
+    {name:"بيتكلم عليا ", file:"https://serv100.albumaty.com/song2022/Albumaty.Com_gwrg_wswf_bytklm_alya.mp3", img:"bytkl.jpg"}  ,
     {name:"ياه علي الزمن ", file:"https://serv100.albumaty.com/songs_2020/Albumaty.Com_gwrg_wswf_yah_aalzmn.mp3", img:"yah.jpg"}  ,
     {name:"رقصه اسباني ", file:"https://serv100.albumaty.com/2024/Albumaty.Com_gwrg_wswf_rkst_asbany.mp3", img:"reksa.jpg"}  ,
     {name:"بيحسدوني ", file:"https://serv100.albumaty.com/dl/gem/george-wassouf/singels/Albumaty.Com.George.Wassouf.Byehsedoni.mp3   ", img:"byh.jpg"}  ,
